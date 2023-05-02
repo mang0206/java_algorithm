@@ -1,14 +1,14 @@
 package backjun.Bstring;
 
 import java.util.Scanner;
-import java.util.ArrayList;
-import java.util.List;
+// import java.util.ArrayList;
+// import java.util.List;
 public class 알파벳찾기 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         String s = sc.next();
 
-        List<Integer> a = new ArrayList<>();
+        // List<Integer> a = new ArrayList<>();
         StringBuilder sb = new StringBuilder();
         for(char i='a'; i<='z'; i++){
             // a.add(s.indexOf(i));

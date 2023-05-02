@@ -1,7 +1,7 @@
 package backjun.Carray2;
 
 import java.util.Scanner;
-import java.util.StringTokenizer;
+// import java.util.StringTokenizer;
 public class 세로읽기 {
     // public static void main(String[] args){
     //     Scanner sc = new Scanner(System.in);

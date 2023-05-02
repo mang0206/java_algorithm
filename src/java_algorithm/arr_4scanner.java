@@ -4,10 +4,10 @@ import java.util.Scanner;
 public class arr_4scanner {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
-		System.out.print("¼Ò¹®ÀÚ ¾ËÆÄºª ÇÏ³ª¸¦ ÀÔ·ÂÇÏ½Ã¿À>>");
+		System.out.print("ï¿½Ò¹ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Äºï¿½ ï¿½Ï³ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½ï¿½Ï½Ã¿ï¿½>>");
 		String s = sc.next();
+		sc.close();
 		char c = s.charAt(0);
 		char a = 'a';
 		int n = (int)c - (int)a;

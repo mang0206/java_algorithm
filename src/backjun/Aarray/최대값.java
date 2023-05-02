@@ -10,6 +10,8 @@ public class 최대값 {
         for(int i=0; i<9; i++)
             arr[i] = sc.nextInt();
         
+        sc.close();
+
         int _max = 0, idx = 0;
         for(int i=0; i<arr.length; i++){
             if (arr[i] > _max){

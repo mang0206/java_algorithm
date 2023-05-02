@@ -6,16 +6,15 @@ public class 분해합 {
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
+        sc.close();
         int result = 0;
 
         for(int i=1;i<n;i++){
             String t = Integer.toString(i);
-            // System.out.println(t);
             int tmp = i;
             for(int j=0; j<t.length(); j++)
                 tmp += ((int)t.charAt(j) - '0');
             
-            // System.out.println(tmp);
             if (tmp == n){
                 result = i;
                 break;

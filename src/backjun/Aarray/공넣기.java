@@ -14,6 +14,7 @@ public class 공넣기 {
                 arr[j] = num;
             }
         }
+        sc.close();
         
         for (int i : arr)
             System.out.print(i+" ");
