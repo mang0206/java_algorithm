@@ -12,6 +12,10 @@ import java.util.Iterator;
 
 public class JavaStructure {
     public static void main(String[] args){
+        // 1.Int를 String으로 2. String을 Int로
+        // 1. Integer.toString
+        // 2. Integer.parseInt
+
         List<Integer> list1 = new ArrayList<>();
         Integer[] arr = {1,2,3,4,5};
         List<Integer> list2 = Arrays.asList(arr);
@@ -33,6 +37,7 @@ public class JavaStructure {
         list1.add(2);
 
         Collections.sort(list1);
+        Collections.reverse(list1);
 
         System.out.println(list1);
         
@@ -57,6 +62,7 @@ public class JavaStructure {
         stack.push(4);
         stack.push(9);
 
+        System.out.println(stack.get(2));
         System.out.println(stack);
         System.out.println(stack.pop());
         System.out.println(stack.peek());
