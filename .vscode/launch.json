@@ -1,0 +1,343 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "잃어버린괄호",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.I그리디.잃어버린괄호",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "개수세기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Aarray.개수세기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "공넣기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Aarray.공넣기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "공바꾸기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Aarray.공바꾸기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "최대값",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Aarray.최대값",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "그대로출력",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Bstring.그대로출력",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "단어길이재기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Bstring.단어길이재기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "단어의개수",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Bstring.단어의개수",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "문자열",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Bstring.문자열",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "문자와문자열",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Bstring.문자와문자열",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "숫자의합",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Bstring.숫자의합",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "아스키코드",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Bstring.아스키코드",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "알파벳찾기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Bstring.알파벳찾기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "색종이",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Carray2.색종이",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "세로읽기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Carray2.세로읽기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "최대값(1)",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Carray2.최대값",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "분해합",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Dbruteforce.분해합",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "블랙잭",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Dbruteforce.블랙잭",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "설탕배달",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Dbruteforce.설탕배달",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "영화감독숌",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Dbruteforce.영화감독숌",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "체스판다시칠하기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Dbruteforce.체스판다시칠하기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "수정렬하기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Esorting.수정렬하기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "좌표압축",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.Esorting.좌표압축",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "문자열집합",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.F집합과맵.문자열집합",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "숫자카드",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.F집합과맵.숫자카드",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "회사에있는사람",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.F집합과맵.회사에있는사람",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Nqueen",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.G백트래킹.Nqueen",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "스도쿠",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.G백트래킹.스도쿠",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "연산자끼워넣기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.G백트래킹.연산자끼워넣기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "rgb거리",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.H동적계획.rgb거리",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "계단오르기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.H동적계획.계단오르기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "바이토닉부분수열",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.H동적계획.바이토닉부분수열",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "숫자1로만들기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.H동적계획.숫자1로만들기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "연속합",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.H동적계획.연속합",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "전깃줄",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.H동적계획.전깃줄",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "정수삼각형",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.H동적계획.정수삼각형",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "증가하는부분수열",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.H동적계획.증가하는부분수열",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "ATM",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.I그리디.ATM",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "회의실배정",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.I그리디.회의실배정",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "JavaStructure",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.JavaStructure",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.test",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "arr2example",
+            "request": "launch",
+            "mainClass": "java_algorithm/java_algorithm.arr2example",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "arr_4scanner",
+            "request": "launch",
+            "mainClass": "java_algorithm/java_algorithm.arr_4scanner",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "arrexample",
+            "request": "launch",
+            "mainClass": "java_algorithm/java_algorithm.arrexample",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "forexample",
+            "request": "launch",
+            "mainClass": "java_algorithm/java_algorithm.forexample",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "ifexample",
+            "request": "launch",
+            "mainClass": "java_algorithm/java_algorithm.ifexample",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "switchexample",
+            "request": "launch",
+            "mainClass": "java_algorithm/java_algorithm.switchexample",
+            "projectName": "java_algorithm"
+        }
+    ]
+}
