@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "쿼드트리",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.J분할정복.쿼드트리",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "색종이만들기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.J분할정복.색종이만들기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
             "name": "잃어버린괄호",
             "request": "launch",
             "mainClass": "java_algorithm/backjun.I그리디.잃어버린괄호",
