@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "공유기설치",
+            "request": "launch",
+            "mainClass": "java_algorithm/K이분탐색.공유기설치",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "나무자르기",
+            "request": "launch",
+            "mainClass": "java_algorithm/K이분탐색.나무자르기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "랜선자르기",
+            "request": "launch",
+            "mainClass": "java_algorithm/K이분탐색.랜선자르기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
             "name": "쿼드트리",
             "request": "launch",
             "mainClass": "java_algorithm/backjun.J분할정복.쿼드트리",
