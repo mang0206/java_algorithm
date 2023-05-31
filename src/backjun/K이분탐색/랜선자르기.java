@@ -1,4 +1,4 @@
-package K이분탐색;
+package backjun.K이분탐색;
 
 import java.util.Scanner;
 import java.util.Arrays;

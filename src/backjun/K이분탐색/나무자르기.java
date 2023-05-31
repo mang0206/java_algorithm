@@ -1,4 +1,4 @@
-package K이분탐색;
+package backjun.K이분탐색;
 
 import java.util.Scanner;
 import java.util.Arrays;
@@ -12,7 +12,7 @@ public class 나무자르기 {
             tree[i] = sc.nextInt();
         }
         sc.close();
-        long start = 0, end = Arrays.stream(tree).max().getAsInt();
+        long start = 0, end = Arrays.stream(tree).max().getAsInt()+1;
 
         long mid = 0;
         while(start < end){

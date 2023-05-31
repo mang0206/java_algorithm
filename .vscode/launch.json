@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "최대힙",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.L우선순위큐.최대힙",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "가장긴증가하는부분수열",
+            "request": "launch",
+            "mainClass": "java_algorithm/K이분탐색.가장긴증가하는부분수열",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
             "name": "공유기설치",
             "request": "launch",
             "mainClass": "java_algorithm/K이분탐색.공유기설치",
