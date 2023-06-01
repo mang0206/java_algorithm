@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "내리막길",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.M동적계획2.내리막길",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "파일합치기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.M동적계획2.파일합치기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
             "name": "최대힙",
             "request": "launch",
             "mainClass": "java_algorithm/backjun.L우선순위큐.최대힙",
