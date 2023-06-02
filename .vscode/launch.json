@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "양팔저울",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.M동적계획2.양팔저울",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
             "name": "내리막길",
             "request": "launch",
             "mainClass": "java_algorithm/backjun.M동적계획2.내리막길",
