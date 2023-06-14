@@ -1,6 +1,7 @@
 package backjun.N스택;
 import java.util.Scanner;
 import java.util.Stack;
+import java.util.Arrays;
 
 public class 문자열폭팔 {
     public static void main(String[] args){
@@ -11,16 +12,13 @@ public class 문자열폭팔 {
         String boom = sc.next();
         sc.close();
         int l =boom.length();
-
         for(String i:s){
             stack.push(i);
             boolean flag = false;
             
             if (stack.size() >= l){
-                System.out.println(stack);
                 for(int j=0; j<l; j++){
-                    System.out.println(stack.get(stack.size()- l + j) + " | " + String.valueOf(boom.charAt(j)));
-                    if(stack.get(stack.size()- l + j) != String.valueOf(boom.charAt(j))){
+                    if(!stack.get(stack.size()-l+j).equals(String.valueOf(boom.charAt(j)))){
                         flag = false;
                         break;
                     }
@@ -33,10 +31,14 @@ public class 문자열폭팔 {
             }
             
         }
+        
         if(stack.size() == 0){
             System.out.println("FRULA");
         } else {
-            System.out.println(stack);
+            // Arrays.stream(stack.toArray()).forEach(a-> {System.out.print(a);});
+            for(int i=0; i<stack.size(); i++){
+                System.out.print(stack.get(i));
+            }
         }
     }
     
