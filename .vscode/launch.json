@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "히스토그램",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.N스택.히스토그램",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
             "name": "오큰수",
             "request": "launch",
             "mainClass": "java_algorithm/backjun.N스택.오큰수",
