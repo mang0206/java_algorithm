@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "dfs_bfs",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.O그래프.dfs_bfs",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
             "name": "바이러스",
             "request": "launch",
             "mainClass": "java_algorithm/backjun.O그래프.바이러스",
