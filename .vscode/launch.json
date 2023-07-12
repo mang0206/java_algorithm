@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "나이트이동",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.O그래프.나이트이동",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "숨바꼭질",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.O그래프.숨바꼭질",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
             "name": "미로탐색",
             "request": "launch",
             "mainClass": "java_algorithm/backjun.O그래프.미로탐색",
