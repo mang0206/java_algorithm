@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PhonBook",
+            "request": "launch",
+            "mainClass": "java_algorithm/java_algorithm.ClassStudy.PhonBook",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Rectangle_main",
+            "request": "launch",
+            "mainClass": "java_algorithm/java_algorithm.ClassStudy.Rectangle_main",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "game",
+            "request": "launch",
+            "mainClass": "java_algorithm/java_algorithm.game",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
             "name": "나이트이동",
             "request": "launch",
             "mainClass": "java_algorithm/backjun.O그래프.나이트이동",
