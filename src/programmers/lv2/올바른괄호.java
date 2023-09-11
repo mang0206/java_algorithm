@@ -19,3 +19,27 @@ public class 올바른괄호 {
         return true;
     }
 }
+
+class Solution {
+    boolean solution(String s) {
+        boolean answer = true;
+        Stack<String> stack = new Stack<>();
+        
+        String t;
+        for(int i=0; i<s.length(); i++){
+            t = s.substring(i, i+1);
+            if(t.equals("(")){
+                stack.add(t);
+            } else {
+                if (stack.size() > 0)
+                    stack.pop();
+                else{
+                    return false;
+                }      
+            }
+        }
+        if (stack.size() > 0)
+            return false;
+        return answer;
+    }
+}

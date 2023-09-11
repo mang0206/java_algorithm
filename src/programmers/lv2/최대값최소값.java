@@ -19,3 +19,20 @@ public class 최대값최소값 {
         return answer;
     }
 }
+
+class Solution {
+    public String solution(String s) {
+        int min = Integer.MIN_VALUE, max = Integer.MAX_VALUE;
+        int num;
+        for(String i: s.split(" ")) {
+            num = Integer.valueOf(i);
+            if(num < max)
+                max = num;
+            if(num > min)
+                min = num;
+            
+        }
+            
+        return max + " " + min;
+    }
+}
