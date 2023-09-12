@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "쉽게푸는문제",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun_dabi.chapter01.쉽게푸는문제",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "소수찾기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun_dabi.chapter01.소수찾기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "N번째큰수",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun_dabi.chapter01.N번째큰수",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "일곱난쟁이",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun_dabi.chapter01.일곱난쟁이",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "약수구하기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun_dabi.chapter01.약수구하기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
             "name": "PhonBook",
             "request": "launch",
             "mainClass": "java_algorithm/java_algorithm.ClassStudy.PhonBook",
