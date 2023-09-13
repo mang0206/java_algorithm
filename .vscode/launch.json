@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "연산자끼워넣기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun_dabi.chapter02.연산자끼워넣기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "소수",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun_dabi.chapter01.소수",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
             "name": "쉽게푸는문제",
             "request": "launch",
             "mainClass": "java_algorithm/backjun_dabi.chapter01.쉽게푸는문제",
