@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "빗물",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun_dabi.chapter02.빗물",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "괄호의값",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun_dabi.chapter02.괄호의값",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "수들의합5",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun.P투포인트.수들의합5",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
             "name": "연산자끼워넣기",
             "request": "launch",
             "mainClass": "java_algorithm/backjun_dabi.chapter02.연산자끼워넣기",
