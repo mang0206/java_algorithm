@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "부분합",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun_dabi.chapter02.부분합",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "멀티탭스케줄링",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun_dabi.chapter02.멀티탭스케줄링",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "가르침",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun_dabi.chapter02.가르침",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
             "name": "빗물",
             "request": "launch",
             "mainClass": "java_algorithm/backjun_dabi.chapter02.빗물",
