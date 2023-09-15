@@ -15,7 +15,7 @@ public class 부분합 {
         int tmp = arr[0];
 
         while(left < n && right < n){
-            System.out.println(left +" " + right + " " + tmp);
+            // System.out.println(left +" " + right + " " + tmp);
             if(tmp < s) {
                 right++;
                 if(right < n)
