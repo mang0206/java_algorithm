@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "최소비용구하기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun_dabi.chapter02.최소비용구하기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
             "name": "부분합",
             "request": "launch",
             "mainClass": "java_algorithm/backjun_dabi.chapter02.부분합",
