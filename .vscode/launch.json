@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "수들의합",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun_dabi.chapter03.수들의합",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
+            "name": "줄세우기",
+            "request": "launch",
+            "mainClass": "java_algorithm/backjun_dabi.chapter02.줄세우기",
+            "projectName": "java_algorithm"
+        },
+        {
+            "type": "java",
             "name": "최소비용구하기",
             "request": "launch",
             "mainClass": "java_algorithm/backjun_dabi.chapter02.최소비용구하기",
