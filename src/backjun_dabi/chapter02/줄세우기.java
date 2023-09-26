@@ -23,7 +23,7 @@ public class 줄세우기 {
             graph.get(a).add(b);
             link[b]++;
         }
-
+        sc.close();
         StringBuffer sb = new StringBuffer();
         for(int i=1; i<=n;i++) {
             if(link[i]==0) {
